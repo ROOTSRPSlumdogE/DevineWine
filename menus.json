@@ -1,0 +1,1449 @@
+{
+  "brunch": {
+    "title": "Brunch",
+    "subtitle": "A leisurely start, made Devine.",
+    "pdfs": [
+      {
+        "label": "Brunch menu",
+        "url": "menus/brunch.pdf"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Brunch",
+        "note": "Please inform your server of any food allergies or dietary restrictions before ordering.",
+        "items": [
+          {
+            "name": "Monte Cristo Sandwich",
+            "price": "$15.50",
+            "description": "Ham, Havarti, strawberry jam, French toast batter, powdered sugar, strawberries. Served with hash browns."
+          },
+          {
+            "name": "Eggs Benedict",
+            "price": "$16.50",
+            "description": "Ham, poached eggs, hollandaise, English muffin. Served with hash browns and fruit."
+          },
+          {
+            "name": "Eggs Florentine",
+            "price": "$16.50",
+            "description": "Spinach, avocado, poached eggs, English muffin, everything seasoning. Served with hash browns and fruit."
+          },
+          {
+            "name": "Pancakes",
+            "price": "$14.50",
+            "description": "Choice: plain, chocolate chip, or blueberry. Butter and Vermont maple syrup. Add 2 eggs $4."
+          },
+          {
+            "name": "French Toast Combo",
+            "price": "$16.50",
+            "description": "Served with bacon and two eggs any style."
+          },
+          {
+            "name": "Tenderloin Hash",
+            "price": "$19",
+            "description": "Tenderloin, potatoes, onions, two eggs any style."
+          }
+        ]
+      },
+      {
+        "title": "Sides",
+        "items": [
+          {
+            "name": "Bacon",
+            "price": "$5",
+            "description": ""
+          },
+          {
+            "name": "Sausage",
+            "price": "$5",
+            "description": ""
+          },
+          {
+            "name": "Avocado",
+            "price": "$4",
+            "description": ""
+          },
+          {
+            "name": "Fruit",
+            "price": "$4",
+            "description": ""
+          },
+          {
+            "name": "Hash Browns",
+            "price": "$5",
+            "description": ""
+          },
+          {
+            "name": "Eggs your way",
+            "price": "$5",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Appetizers",
+        "items": [
+          {
+            "name": "Fresh Bread & Dipping Oil",
+            "price": "$6",
+            "description": "Sourdough baguette slices with extra virgin olive oil, imported balsamic vinegar, and house blend of spices."
+          },
+          {
+            "name": "Hummus & Naan",
+            "price": "$12",
+            "description": "Fresh hummus topped with EVOO, spices, diced Roma tomatoes, Kalamata olives, cucumbers, and feta. Served with warm naan."
+          },
+          {
+            "name": "Baked Spinach & Artichoke Dip",
+            "price": "$12",
+            "description": "Spinach, artichokes, mozzarella, parmesan, baked golden. Served with sourdough baguette slices."
+          }
+        ]
+      },
+      {
+        "title": "Salads",
+        "note": "Dressings: Ranch, Blue Cheese, Caesar, Balsamic Vinaigrette, Greek, Italian, Honey Mustard, Thousand Island.",
+        "items": [
+          {
+            "name": "Garden Salad",
+            "price": "$7",
+            "description": "Farm fresh greens, diced Roma tomato, sliced cucumber, shredded carrots, shredded cheese with choice of dressing."
+          },
+          {
+            "name": "Caesar Salad",
+            "price": "$12",
+            "description": "Farm fresh greens, house made sourdough croutons, shaved parmesan, house made Caesar dressing."
+          },
+          {
+            "name": "Chicken Club Salad",
+            "price": "$16",
+            "description": "Perfectly grilled chicken atop farm fresh greens with diced Roma tomato, crumbled bacon, hard boiled egg, ripe avocado, pickled red onion, shredded cheese with choice of dressing."
+          },
+          {
+            "name": "Cranberry Chicken Salad",
+            "price": "$14",
+            "description": "A double scoop of our house made, crowd favorite cranberry chicken salad atop farm fresh greens and diced Roma tomato with choice of dressing."
+          },
+          {
+            "name": "Chicken Kabob Salad",
+            "price": "$18",
+            "description": "A skewer of tender chicken marinated in Greek yogurt and our house made Greek dressing, grilled to perfection and served over farm fresh greens, diced Roma tomato, sliced cucumber, Kalamata olives, fresh red onion, and feta cheese, served with warm naan, hummus, and house made Greek dressing."
+          }
+        ]
+      },
+      {
+        "title": "Lunch Entrées",
+        "note": "Served with a side garden salad.",
+        "items": [
+          {
+            "name": "Chicken, Artichoke & Spinach Lasagna",
+            "price": "$18",
+            "description": "Chicken, spinach, artichokes, ricotta, mozzarella, Alfredo, sourdough."
+          },
+          {
+            "name": "Meat Lasagna",
+            "price": "$18",
+            "description": "Beef & pork, ricotta, mozzarella, marinara, sourdough."
+          }
+        ]
+      },
+      {
+        "title": "Drinks",
+        "items": [
+          {
+            "name": "Mimosa Flights",
+            "price": "$18",
+            "description": "Choose 3: Orange, Pineapple, Cranberry, Grapefruit."
+          },
+          {
+            "name": "Single Mimosa",
+            "price": "$9",
+            "description": "Choice of Orange, Pineapple, Cranberry, Grapefruit."
+          },
+          {
+            "name": "Mimosa Bottle Service",
+            "price": "$29",
+            "description": "Champagne bottle, choice of two juices."
+          },
+          {
+            "name": "Bloody Mary",
+            "price": "$14",
+            "description": "Vodka, house mix, classic garnishes."
+          }
+        ]
+      },
+      {
+        "title": "10\" Cauliflower Pizzas",
+        "items": [
+          {
+            "name": "Margherita",
+            "price": "$15",
+            "description": "Marinara, mozzarella, Roma tomato, basil, balsamic."
+          },
+          {
+            "name": "Chicken Pesto",
+            "price": "$17",
+            "description": "Pesto, mozzarella, chicken, bacon, artichoke, balsamic."
+          },
+          {
+            "name": "Meat Lover",
+            "price": "$18",
+            "description": "Marinara, mozzarella, pepperoni, ham, sausage, bacon."
+          }
+        ]
+      }
+    ]
+  },
+  "lunch": {
+    "title": "Lunch",
+    "subtitle": "Fresh favorites, long lunches, good company.",
+    "pdfs": [
+      {
+        "label": "Lunch menu · page 1",
+        "url": "menus/lunch-one.pdf"
+      },
+      {
+        "label": "Lunch menu · page 2",
+        "url": "menus/lunch-two.pdf"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Appetizers",
+        "note": "Additions: Extra Bread $2; Vegetable Substitution $2; Gluten Free Bread $5.",
+        "items": [
+          {
+            "name": "Fresh Bread & Dipping Oil",
+            "price": "$6",
+            "description": "Sourdough baguette slices with extra virgin olive oil, imported balsamic vinegar, and house blend of spices."
+          },
+          {
+            "name": "Hummus & Naan",
+            "price": "$12",
+            "description": "Fresh hummus topped with EVOO, spices, diced Roma tomatoes, Kalamata olives, cucumbers, and feta. Served with warm naan."
+          },
+          {
+            "name": "Baked Spinach & Artichoke Dip",
+            "price": "$12",
+            "description": "Spinach, artichokes, mozzarella, parmesan, baked golden. Served with sourdough baguette slices."
+          },
+          {
+            "name": "Brie & Fig Jam",
+            "price": "$14",
+            "description": "Double cream brie with imported fig jam, served warm with sourdough baguette slices."
+          },
+          {
+            "name": "Bruschetta",
+            "price": "$12",
+            "description": "Garlic oil crostini topped with basil and diced Roma tomatoes tossed in EVOO and balsamic, finished with balsamic reduction."
+          },
+          {
+            "name": "Soup",
+            "price": "Cup $6 | Bowl $12",
+            "description": "Creamy Chicken Poblano or Daily Featured Soup, served with sourdough baguette."
+          }
+        ]
+      },
+      {
+        "title": "Salads",
+        "note": "Dressings: Ranch, Blue Cheese, Caesar, Balsamic Vinaigrette, Greek, Italian, Honey Mustard, Thousand Island. Additions: Grilled Chicken $6; Kabob Skewer $12.",
+        "items": [
+          {
+            "name": "Garden Salad",
+            "price": "$7",
+            "description": "Farm fresh greens, diced Roma tomato, sliced cucumber, shredded carrots, shredded cheese with choice of dressing."
+          },
+          {
+            "name": "Caesar Salad",
+            "price": "$12",
+            "description": "Farm fresh greens, house made sourdough croutons, shaved parmesan, house made Caesar dressing."
+          },
+          {
+            "name": "Chicken Club Salad",
+            "price": "$16",
+            "description": "Perfectly grilled chicken atop farm fresh greens with diced Roma tomato, crumbled bacon, hard boiled egg, ripe avocado, pickled red onion, shredded cheese with choice of dressing."
+          },
+          {
+            "name": "Cranberry Chicken Salad",
+            "price": "$14",
+            "description": "A double scoop of our house made, crowd favorite cranberry chicken salad atop farm fresh greens and diced Roma tomato with choice of dressing."
+          },
+          {
+            "name": "Chicken Kabob Salad",
+            "price": "$18",
+            "description": "A skewer of tender chicken marinated in Greek yogurt and our house made Greek dressing, grilled to perfection and served over farm fresh greens, diced Roma tomato, sliced cucumber, Kalamata olives, fresh red onion, and feta cheese, served with warm naan, hummus, and house made Greek dressing."
+          }
+        ]
+      },
+      {
+        "title": "Charcuterie",
+        "note": "Additions: Extra Crackers/Bread $2; Bread & Oil $3.50; Hummus & Naan $4; Spinach Dip $4; Vegetable Sub $4; Gluten Free Bread $5.",
+        "items": [
+          {
+            "name": "Small Charcuterie",
+            "price": "$35",
+            "description": "Serves 2–4. Three cheeses, three meats, pickled vegetables, olives, nuts, hot honey."
+          },
+          {
+            "name": "Medium Charcuterie",
+            "price": "$50",
+            "description": "Serves 4–6. Four cheeses, four meats, pickled vegetables, olives, nuts, imported fig jam."
+          },
+          {
+            "name": "Large Charcuterie",
+            "price": "$140",
+            "description": "Serves 10. Six cheeses, five meats, fresh and pickled vegetables, olives, nuts, hot honey, imported fig jam, chocolate."
+          }
+        ]
+      },
+      {
+        "title": "Sandwiches",
+        "note": "Served with house made pickle and choice of chips or house made Mediterranean pasta salad.",
+        "items": [
+          {
+            "name": "Chicken Pesto Grilled Cheese",
+            "price": "$16",
+            "description": "Sourdough sandwich bread, house made pesto, diced grilled chicken, crumbled bacon, artichoke hearts, and fresh mozzarella, topped with a drizzle of sweet and savory balsamic reduction."
+          },
+          {
+            "name": "Margherita Chicken Grilled Cheese",
+            "price": "$16",
+            "description": "Sourdough sandwich bread, diced grilled chicken, diced Roma tomato, hand torn basil, and fresh mozzarella, topped with a drizzle of sweet and savory balsamic reduction."
+          },
+          {
+            "name": "Grown Up Grilled Cheese",
+            "price": "$14",
+            "description": "Sourdough sandwich bread, smoked Gouda, and Havarti cheese, served with a side of raspberry chipotle sauce."
+          },
+          {
+            "name": "Ultimate Grilled Cheese",
+            "price": "$16",
+            "description": "Sourdough sandwich bread, sliced cheddar, fresh sliced turkey breast, sliced Roma tomato, and ripe avocado."
+          },
+          {
+            "name": "Cranberry Chicken Salad Croissant",
+            "price": "$15",
+            "description": "A double scoop of our house made, crowd favorite cranberry chicken salad inside a warm butter croissant."
+          }
+        ]
+      },
+      {
+        "title": "Entrées",
+        "note": "Served with a side garden salad.",
+        "items": [
+          {
+            "name": "Chicken, Artichoke & Spinach Lasagna",
+            "price": "$18",
+            "description": "Chicken, spinach, artichokes, ricotta, mozzarella, Alfredo, sourdough."
+          },
+          {
+            "name": "Meat Lasagna",
+            "price": "$18",
+            "description": "Beef & pork, ricotta, mozzarella, marinara, sourdough."
+          },
+          {
+            "name": "Spaghetti Bolognese",
+            "price": "$19",
+            "description": "Spaghetti, house bolognese, shaved parmesan, sourdough."
+          },
+          {
+            "name": "Chicken Fettuccine Alfredo",
+            "price": "$21",
+            "description": "Fettuccine, Alfredo sauce, grilled chicken, shaved parmesan, sourdough."
+          },
+          {
+            "name": "Grilled Chicken Lunch",
+            "price": "$16",
+            "description": "Grilled chicken kabob atop a bed of steamed vegetables, served with a side of house made balsamic dressing."
+          },
+          {
+            "name": "Devine Power Bowl",
+            "price": "$18",
+            "description": "Fluffy Arborio rice, grilled chicken, Kalamata olives, pickled red onion, diced Roma tomatoes, sliced cucumbers, feta cheese, hummus, and naan."
+          }
+        ]
+      },
+      {
+        "title": "10\" Cauliflower Pizzas",
+        "items": [
+          {
+            "name": "Margherita",
+            "price": "$15",
+            "description": "Marinara, mozzarella, Roma tomato, basil, balsamic."
+          },
+          {
+            "name": "Chicken Pesto",
+            "price": "$17",
+            "description": "Pesto, mozzarella, chicken, bacon, artichoke, balsamic."
+          },
+          {
+            "name": "Meat Lover",
+            "price": "$18",
+            "description": "Marinara, mozzarella, pepperoni, ham, sausage, bacon."
+          },
+          {
+            "name": "BBQ Chicken",
+            "price": "$16",
+            "description": "BBQ sauce, mozzarella, chicken, bacon, red onion."
+          },
+          {
+            "name": "We Love Figs!",
+            "price": "$18",
+            "description": "Fig jam, mozzarella, arugula, prosciutto, ham, blue cheese, balsamic."
+          },
+          {
+            "name": "Rosa Linda",
+            "price": "$18",
+            "description": "Marinara, blue cheese, spinach, prosciutto, olives, fig jam, balsamic."
+          }
+        ]
+      },
+      {
+        "title": "Lunch Combos",
+        "note": "Ask your server for additions or substitutions (subject to upcharge). Please inform your server of any food allergies or dietary restrictions before ordering.",
+        "items": [
+          {
+            "name": "Soup & Salad",
+            "price": "$12",
+            "description": ""
+          },
+          {
+            "name": "Soup & Sandwich",
+            "price": "$12",
+            "description": ""
+          },
+          {
+            "name": "Salad & Sandwich",
+            "price": "$12",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  "dinner": {
+    "title": "Dinner",
+    "subtitle": "An evening worth lingering over.",
+    "pdfs": [
+      {
+        "label": "Dinner menu · page 1",
+        "url": "menus/dinner-one.pdf"
+      },
+      {
+        "label": "Dinner menu · page 2",
+        "url": "menus/dinner-two.pdf"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Appetizers",
+        "note": "Additions: Extra Bread $2; Vegetable Substitution $2; Gluten Free Bread $5.",
+        "items": [
+          {
+            "name": "Fresh Bread & Dipping Oil",
+            "price": "$6",
+            "description": "Sourdough baguette slices with extra virgin olive oil, imported balsamic vinegar, and house blend of spices."
+          },
+          {
+            "name": "Hummus & Naan",
+            "price": "$12",
+            "description": "Fresh hummus topped with EVOO, spices, diced Roma tomatoes, Kalamata olives, cucumbers, and feta. Served with warm naan."
+          },
+          {
+            "name": "Baked Spinach & Artichoke Dip",
+            "price": "$12",
+            "description": "Spinach, artichokes, mozzarella, parmesan, baked golden. Served with sourdough baguette slices."
+          },
+          {
+            "name": "Brie & Fig Jam",
+            "price": "$14",
+            "description": "Double cream brie with imported fig jam, served warm with sourdough baguette slices."
+          },
+          {
+            "name": "Bruschetta",
+            "price": "$12",
+            "description": "Garlic oil crostini topped with basil and diced Roma tomatoes tossed in EVOO and balsamic, finished with balsamic reduction."
+          },
+          {
+            "name": "Meatball Nirvana",
+            "price": "$18",
+            "description": "10oz beef & pork meatball, marinara, mozzarella, crostini."
+          },
+          {
+            "name": "Soup",
+            "price": "Cup $6 | Bowl $12",
+            "description": "Creamy Chicken Poblano or Daily Featured Soup, served with sourdough baguette."
+          }
+        ]
+      },
+      {
+        "title": "Salads",
+        "note": "Dressings: Ranch, Blue Cheese, Caesar, Balsamic Vinaigrette, Greek, Italian, Honey Mustard, Thousand Island. Additions: Grilled Chicken $6; Kabob Skewer $12.",
+        "items": [
+          {
+            "name": "Garden Salad",
+            "price": "$7",
+            "description": "Farm fresh greens, diced Roma tomato, sliced cucumber, shredded carrots, shredded cheese with choice of dressing."
+          },
+          {
+            "name": "Caesar Salad",
+            "price": "$12",
+            "description": "Farm fresh greens, house made sourdough croutons, shaved parmesan, house made Caesar dressing."
+          },
+          {
+            "name": "Chicken Club Salad",
+            "price": "$16",
+            "description": "Perfectly grilled chicken atop farm fresh greens with diced Roma tomato, crumbled bacon, hard boiled egg, ripe avocado, pickled red onion, shredded cheese with choice of dressing."
+          },
+          {
+            "name": "Cranberry Chicken Salad",
+            "price": "$14",
+            "description": "A double scoop of our house made, crowd favorite cranberry chicken salad atop farm fresh greens and diced Roma tomato with choice of dressing."
+          },
+          {
+            "name": "Chicken Kabob Salad",
+            "price": "$18",
+            "description": "A skewer of tender chicken marinated in Greek yogurt and our house made Greek dressing, grilled to perfection and served over farm fresh greens, diced Roma tomato, sliced cucumber, Kalamata olives, fresh red onion, and feta cheese, served with warm naan, hummus, and house made Greek dressing."
+          }
+        ]
+      },
+      {
+        "title": "Charcuterie",
+        "note": "Additions: Extra Crackers/Bread $2; Bread & Oil $3.50; Hummus & Naan $4; Spinach Dip $4; Vegetable Sub $4; Gluten Free Bread $5.",
+        "items": [
+          {
+            "name": "Small Charcuterie",
+            "price": "$35",
+            "description": "Serves 2–4. Three cheeses, three meats, pickled vegetables, olives, nuts, hot honey."
+          },
+          {
+            "name": "Medium Charcuterie",
+            "price": "$50",
+            "description": "Serves 4–6. Four cheeses, four meats, pickled vegetables, olives, nuts, imported fig jam."
+          },
+          {
+            "name": "Large Charcuterie",
+            "price": "$140",
+            "description": "Serves 10. Six cheeses, five meats, fresh and pickled vegetables, olives, nuts, hot honey, imported fig jam, chocolate."
+          }
+        ]
+      },
+      {
+        "title": "Entrées",
+        "note": "Served with a side garden salad. Ask your server for additions or substitutions (subject to upcharge). *Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Please inform your server of any food allergies or dietary restrictions before ordering.",
+        "items": [
+          {
+            "name": "8oz Beef Tenderloin*",
+            "price": "$55",
+            "description": "Prime tenderloin with garlic mashed potatoes, seasonal vegetable."
+          },
+          {
+            "name": "Single Pork Chop*",
+            "price": "$23",
+            "description": "Lightly breaded, pan fried, garlic mashed, seasonal vegetable. Add a second chop $6."
+          },
+          {
+            "name": "Chicken & Orzo",
+            "price": "$23",
+            "description": "Grilled chicken, toasted orzo, spinach, basil chimichurri. Served with Greek side salad."
+          },
+          {
+            "name": "Blackened Seared Sea Bass",
+            "price": "$32",
+            "description": "Sea bass, blackening seasoning, lobster risotto, seasonal vegetable."
+          },
+          {
+            "name": "Devine Chicken Pasta",
+            "price": "$21",
+            "description": "Grilled chicken, Rigatoni, Devine sauce, sundried tomatoes, sourdough."
+          },
+          {
+            "name": "Rigatoni Alla Vodka",
+            "price": "$19",
+            "description": "Rigatoni, spicy vodka sauce, shaved parmesan, sourdough."
+          },
+          {
+            "name": "Linguini Bolognese",
+            "price": "$19",
+            "description": "Linguini, house bolognese, shaved parmesan, sourdough."
+          },
+          {
+            "name": "Chicken Linguini Alfredo",
+            "price": "$21",
+            "description": "Linguini, Alfredo sauce, grilled chicken, shaved parmesan, sourdough."
+          },
+          {
+            "name": "Chicken, Artichoke & Spinach Lasagna",
+            "price": "$18",
+            "description": "Chicken, spinach, artichokes, ricotta, mozzarella, Alfredo, sourdough."
+          },
+          {
+            "name": "Meat Lasagna",
+            "price": "$18",
+            "description": "Beef & pork, ricotta, mozzarella, marinara, sourdough."
+          }
+        ]
+      },
+      {
+        "title": "10\" Cauliflower Pizzas",
+        "note": "Served with a side garden salad. Looking for a pairing? We're happy to help.",
+        "items": [
+          {
+            "name": "Margherita",
+            "price": "$18",
+            "description": "Marinara, mozzarella, Roma tomato, basil, balsamic."
+          },
+          {
+            "name": "Chicken Pesto",
+            "price": "$20",
+            "description": "Pesto, mozzarella, chicken, bacon, artichoke, balsamic."
+          },
+          {
+            "name": "Meat Lover",
+            "price": "$21",
+            "description": "Marinara, mozzarella, pepperoni, ham, sausage, bacon."
+          },
+          {
+            "name": "BBQ Chicken",
+            "price": "$19",
+            "description": "BBQ sauce, mozzarella, chicken, bacon, red onion."
+          },
+          {
+            "name": "We Love Figs!",
+            "price": "$21",
+            "description": "Fig jam, mozzarella, arugula, prosciutto, ham, blue cheese, balsamic."
+          },
+          {
+            "name": "Rosa Linda",
+            "price": "$21",
+            "description": "Marinara, blue cheese, spinach, prosciutto, olives, fig jam, balsamic."
+          }
+        ]
+      }
+    ]
+  },
+  "drinks": {
+    "title": "Drinks",
+    "subtitle": "House classics. Seasonal pleasures. Your next favorite.",
+    "pdfs": [
+      {
+        "label": "Drinks menu",
+        "url": "menus/drinks.pdf"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Devine Classics",
+        "items": [
+          {
+            "name": "Devine Old Fashioned",
+            "price": "$15",
+            "description": "A moody, sophisticated twist on a timeless classic. Deep rye spice weaves through a velvety red wine reduction for a rich, lingering, slow-sipping finish."
+          },
+          {
+            "name": "Spiced Blood Orange Old Fashioned",
+            "price": "$15",
+            "description": "Warm, cozy, and wonderfully complex in every single sip. Rich bourbon meets dark blood orange, rounded out by comforting brown sugar and baking spices."
+          },
+          {
+            "name": "Bourbon Bramble",
+            "price": "$14",
+            "description": "A beautiful collision of dark, jammy blackberry and smooth, oaky warmth. Brightened by a touch of citrus, it creates a remarkably refreshing, grounded pour."
+          },
+          {
+            "name": "Devine Margarita",
+            "price": "$15",
+            "description": "The absolute purest expression of a beloved bar classic. Clean, bright tequila is perfectly balanced with fresh citrus for a flawlessly smooth, refreshing finish."
+          },
+          {
+            "name": "Blackberry Pineapple Margarita",
+            "price": "$15",
+            "description": "The ultimate summer throwback making a highly requested, vibrant return. Rich, bold blackberry and bright, sun-drenched pineapple collide to deliver pure, breezy tropical refreshment."
+          },
+          {
+            "name": "Aperol Spritz",
+            "price": "$14",
+            "description": "The quintessential sunset sipper for a warm Texas evening. It is bright, beautifully bubbly, and kissed with a refreshing, bittersweet orange glow."
+          },
+          {
+            "name": "Hugo Spritz",
+            "price": "$14",
+            "description": "A crisp, garden-fresh breeze perfectly captured in a glass. Delicate elderflower notes dance with lively champagne bubbles and a remarkably bright snap of lime."
+          },
+          {
+            "name": "Valvet Espresso Martini",
+            "price": "$16",
+            "description": "Rich, creamy, and undeniably indulgent from the very first sip. A smooth, caffeinated kick is wrapped in a luxurious, completely silky texture."
+          },
+          {
+            "name": "Devine Drop",
+            "price": "$14",
+            "description": "Like pure sunshine served beautifully in a chilled glass. This vibrant, intensely crisp burst of double-citrus finishes with a perfectly sweet and tart bite."
+          },
+          {
+            "name": "French Martini",
+            "price": "$15",
+            "description": "Playful, lush, and undeniably sophisticated from start to finish. This velvety, tropical escape is beautifully elevated by a rich, sweet ribbon of dark raspberry."
+          }
+        ]
+      },
+      {
+        "title": "Fall Special · Bar Only",
+        "note": "Tuesday–Friday 3–6 PM | Saturday 4–7 PM. Bar only. 20% off appetizers.",
+        "items": [
+          {
+            "name": "Martinis",
+            "price": "$10",
+            "description": "A rotating showcase of the ultimate cocktail hour icon. Let our bartenders craft a perfectly chilled, flawlessly balanced pour tailored exactly to the moment."
+          },
+          {
+            "name": "Old Fashioned",
+            "price": "$10",
+            "description": "The timeless standard is constantly reimagined with a rotating selection. Experience a complex, grounded, slow-sipping classic crafted uniquely every time."
+          },
+          {
+            "name": "Devine Infusion Tini",
+            "price": "$10",
+            "description": "A constantly evolving, bartender-curated creation born from our house-infused spirits. Expect bold, unexpected, and completely unique flavor profiles that change with our creative inspiration."
+          }
+        ]
+      },
+      {
+        "title": "Fall Cocktails",
+        "items": [
+          {
+            "name": "Apple Cider Margarita",
+            "price": "$15",
+            "description": "The crisp, nostalgic essence of autumn orchard days meets the bright agave warmth of a classic margarita. A perfectly balanced, spiced, and refreshing seasonal pour."
+          },
+          {
+            "name": "Pumpkin Spice White Russian",
+            "price": "$16",
+            "description": "This undeniably indulgent and wonderfully creamy classic wraps you in a completely luxurious texture. Familiar baking spices provide the ultimate cozy autumn escape."
+          },
+          {
+            "name": "Salted Caramel Mocha Martini",
+            "price": "$16",
+            "description": "A caffeinated rush meets decadent chocolate and a beautiful touch of sea salt. This perfectly balanced dessert pour is remarkably smooth and indulgent."
+          },
+          {
+            "name": "Pear & Elderflower Spritz",
+            "price": "$15",
+            "description": "Delicate, fragrant pear and bright elderflower blossoms dance beautifully with crisp champagne bubbles. This exquisitely light and fresh breeze perfectly captures a crisp autumn afternoon."
+          },
+          {
+            "name": "Autumn Bourbon Sour",
+            "price": "$16",
+            "description": "Deep, oaky bourbon wraps around a brilliantly tart citrus core for a remarkably cozy evening sipper. Subtle fall spices create a profoundly rich, lingering finish."
+          },
+          {
+            "name": "Pomegranate Cosmo",
+            "price": "$15",
+            "description": "A sophisticated, vibrant twist on a modern classic that delivers an incredibly bright, tart snap. Deep crimson fruit notes offer a flawlessly smooth, elegant finish."
+          }
+        ]
+      },
+      {
+        "title": "Featured Pours · Vodka",
+        "items": [
+          {
+            "name": "Tito’s",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Grey Goose",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Ketel One",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Chopin",
+            "price": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Featured Pours · Gin",
+        "items": [
+          {
+            "name": "Aviation",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Tanqueray",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Empress",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Hendrick’s",
+            "price": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Featured Pours · Tequila",
+        "items": [
+          {
+            "name": "Mi Campo Blanco & Reposado",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Surtierra Blanco & Reposado",
+            "price": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Featured Pours · Whiskey",
+        "items": [
+          {
+            "name": "Jack Daniel’s",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Bulleit",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Basil Hayden Dark Rye",
+            "price": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Featured Pours · Bourbon",
+        "note": "Yes, we have beer as well!",
+        "items": [
+          {
+            "name": "Jim Beam",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Bulleit",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Five Springs Blood Orange",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Five Springs Honey Sage",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Five Springs Maple Vanilla",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Maker’s 46",
+            "price": "",
+            "description": ""
+          },
+          {
+            "name": "Woodford Reserve",
+            "price": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Alcohol-Free Options",
+        "note": "Mimosas available during brunch. Enjoy a drink with live music in our Speakeasy Lounge Thursday–Saturday.",
+        "items": [
+          {
+            "name": "Classic Refreshments",
+            "price": "",
+            "description": "Our signature iced tea, crisp sodas, and house-made lemonades in various vibrant flavors. A perfectly refreshing, simple choice tailored for any time of day."
+          },
+          {
+            "name": "Espresso & Decaf",
+            "price": "",
+            "description": "Expertly pulled espresso or decaf shots and rich, comforting blends crafted exactly to your liking. Experience a warm, perfectly caffeinated lift whenever you need it."
+          },
+          {
+            "name": "Curated Mocktails",
+            "price": "",
+            "description": "Share your preferred flavor profile and let our bartenders craft a unique, alcohol-free creation. Expect a sophisticated, beautifully layered pour tailored exactly to you."
+          }
+        ]
+      }
+    ]
+  },
+  "speakeasy": {
+    "title": "Speakeasy",
+    "subtitle": "Behind an unmarked door…",
+    "pdfs": [
+      {
+        "label": "Speakeasy menu",
+        "url": "menus/speakeasy.pdf"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Boards to Share",
+        "items": [
+          {
+            "name": "Charcuterie Board",
+            "price": "$35",
+            "description": "Serves 2–4 people."
+          },
+          {
+            "name": "Mediterranean Burrata Board",
+            "price": "$38",
+            "description": "Serves 2–4 people."
+          },
+          {
+            "name": "Greek Grilled Chicken Board",
+            "price": "$42",
+            "description": "Serves 2–4 people."
+          },
+          {
+            "name": "Cheese Board",
+            "price": "$28",
+            "description": "Serves 2–4 people."
+          }
+        ]
+      },
+      {
+        "title": "Lounge Bites",
+        "note": "Handcrafted cocktails, wine, and live music.",
+        "items": [
+          {
+            "name": "Spinach & Artichoke Dip",
+            "price": "$12",
+            "description": ""
+          },
+          {
+            "name": "Chicken Salad Hummus & Naan",
+            "price": "$14",
+            "description": ""
+          },
+          {
+            "name": "Margherita Flatbread",
+            "price": "$12",
+            "description": ""
+          },
+          {
+            "name": "Chicken Pesto Flatbread",
+            "price": "$12",
+            "description": ""
+          },
+          {
+            "name": "Cream Cheese Flight",
+            "price": "$18",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  "wine": {
+    "title": "Wine",
+    "subtitle": "A glass for the moment. A bottle for the table.",
+    "pdfs": [
+      {
+        "label": "Complete wine list",
+        "url": "menus/wine.pdf"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Glass & Bottle · Cabernet Sauvignon",
+        "note": "Prices shown by the glass and by the bottle. Wine Happy Hour: save $1 per glass, Tuesday–Friday 3–6 PM and Saturday 4–7 PM.",
+        "items": [
+          {
+            "name": "Mon Frere",
+            "price": "$9 glass · $27 bottle",
+            "description": "North Coast, CA, USA"
+          },
+          {
+            "name": "Dark Harvest",
+            "price": "$10 glass · $30 bottle",
+            "description": "Columbia Valley, WA, USA"
+          },
+          {
+            "name": "Black Bellow",
+            "price": "$10 glass · $30 bottle",
+            "description": "Castilla, Spain"
+          },
+          {
+            "name": "Barossa Valley",
+            "price": "$10 glass · $30 bottle",
+            "description": "Barossa Valley, Australia"
+          },
+          {
+            "name": "Greenwing",
+            "price": "$10 glass · $30 bottle",
+            "description": "Columbia Valley, WA, USA"
+          },
+          {
+            "name": "Maddalena",
+            "price": "$11 glass · $33 bottle",
+            "description": "Paso Robles, CA, USA"
+          },
+          {
+            "name": "Unshackled",
+            "price": "$13 glass · $39 bottle",
+            "description": "Santa Ynez Valley, California, USA"
+          },
+          {
+            "name": "Austin",
+            "price": "$15 glass · $45 bottle",
+            "description": "Paso Robles, CA, USA"
+          },
+          {
+            "name": "Austin Hope",
+            "price": "$20 glass · $80 bottle",
+            "description": "Paso Robles, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Red Blend",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Rebellious",
+            "price": "$9 glass · $30 bottle",
+            "description": "Sonoma County, CA, USA"
+          },
+          {
+            "name": "Pessimist",
+            "price": "$12 glass · $36 bottle",
+            "description": "Paso Robles, CA, USA"
+          },
+          {
+            "name": "Quest",
+            "price": "$12 glass · $36 bottle",
+            "description": "Paso Robles, CA, USA"
+          },
+          {
+            "name": "Walking Fool",
+            "price": "$20 glass · $60 bottle",
+            "description": "Suisun Valley, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Pinot Noir",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Imagery",
+            "price": "$10 glass · $30 bottle",
+            "description": "Monterey County, CA, USA"
+          },
+          {
+            "name": "Sea Sun",
+            "price": "$12 glass · $36 bottle",
+            "description": "Central Coast, CA, USA"
+          },
+          {
+            "name": "Angel’s Ink",
+            "price": "$12 glass · $36 bottle",
+            "description": "Central Coast, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Toscana",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Rubio",
+            "price": "$12 glass · $36 bottle",
+            "description": "Montalcino, Italy"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Zinfandel",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Specialyst",
+            "price": "$12 glass · $36 bottle",
+            "description": "Lodi, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Malbec",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Portillo",
+            "price": "$10 glass · $30 bottle",
+            "description": "Mendoza, Argentina"
+          },
+          {
+            "name": "Yellow Moustache",
+            "price": "$10 glass · $30 bottle",
+            "description": "Mendoza, Argentina"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Merlot",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Drumheller",
+            "price": "$10 glass · $30 bottle",
+            "description": "Columbia Valley, WA, USA"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Tempranillo",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Campo Viejo",
+            "price": "$10 glass · $27 bottle",
+            "description": "Rioja, Spain"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Sparkling",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Wycliff Brut Champagne",
+            "price": "$6 glass · $20 bottle",
+            "description": "California, USA"
+          },
+          {
+            "name": "La Gioiosa Moscato",
+            "price": "$8 glass · $24 bottle",
+            "description": "Treviso, Italy"
+          },
+          {
+            "name": "Hampton Water",
+            "price": "$12 glass · $36 bottle",
+            "description": "Languedoc, France"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Rosé",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Bieler et Fils",
+            "price": "$10 glass · $30 bottle",
+            "description": "Provence, France"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Pinot Grigio",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Borghi ad Est",
+            "price": "$10 glass · $30 bottle",
+            "description": "Friuli, Italy"
+          },
+          {
+            "name": "Chloe",
+            "price": "$10 glass · $30 bottle",
+            "description": "Valdadige, Italy"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Chardonnay",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Dark Harvest",
+            "price": "$10 glass · $30 bottle",
+            "description": "Columbia Valley, WA, USA"
+          },
+          {
+            "name": "Franciscan",
+            "price": "$10 glass · $30 bottle",
+            "description": "Monterey County, CA, USA"
+          },
+          {
+            "name": "Harken",
+            "price": "$10 glass · $30 bottle",
+            "description": "Monterey County, CA, USA"
+          },
+          {
+            "name": "Daou",
+            "price": "$12 glass · $36 bottle",
+            "description": "Paso Robles, CA, USA"
+          },
+          {
+            "name": "Napa Cellars",
+            "price": "$12 glass · $36 bottle",
+            "description": "Napa Valley, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Sauvignon Blanc",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "Joel Gott",
+            "price": "$10 glass · $30 bottle",
+            "description": "California, USA"
+          },
+          {
+            "name": "Squealing Pig",
+            "price": "$10 glass · $30 bottle",
+            "description": "Marlborough, New Zealand"
+          },
+          {
+            "name": "Oyster Bay",
+            "price": "$10 glass · $30 bottle",
+            "description": "Marlborough, New Zealand"
+          }
+        ]
+      },
+      {
+        "title": "Glass & Bottle · Other Whites",
+        "note": "Prices shown by the glass and by the bottle.",
+        "items": [
+          {
+            "name": "J Lohr Riesling",
+            "price": "$10 glass · $30 bottle",
+            "description": "Monterey County, CA, USA"
+          },
+          {
+            "name": "Ceretto Blange Arneis",
+            "price": "$14 glass · $40 bottle",
+            "description": "Piedmont, Italy"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Cabernet Sauvignon",
+        "note": "Bottle prices. Wine Down Wednesday: BOGO 50% off wine bottles all day. Ask about our Wine Club and monthly Wine Dinner.",
+        "items": [
+          {
+            "name": "Banshee",
+            "price": "$40 bottle",
+            "description": "Sonoma County, CA, USA"
+          },
+          {
+            "name": "St. Hubert The Stag",
+            "price": "$40 bottle",
+            "description": "Paso Robles, CA, USA"
+          },
+          {
+            "name": "Martis",
+            "price": "$60 bottle",
+            "description": "Alexander Valley, CA, USA"
+          },
+          {
+            "name": "The Prisoner",
+            "price": "$65 bottle",
+            "description": "Napa Valley, CA, USA"
+          },
+          {
+            "name": "Bloodlines",
+            "price": "$70 bottle",
+            "description": "Napa Valley, CA, USA"
+          },
+          {
+            "name": "Caymus California",
+            "price": "$75 bottle",
+            "description": "Fairfield, California, USA"
+          },
+          {
+            "name": "Palermo",
+            "price": "$77 bottle",
+            "description": "Napa Valley, CA, USA"
+          },
+          {
+            "name": "Caymus Napa Valley",
+            "price": "$125 bottle",
+            "description": "Fairfield, CA, USA"
+          },
+          {
+            "name": "Artemis Stag’s Leap",
+            "price": "$150 bottle",
+            "description": "Napa Valley, CA, USA"
+          },
+          {
+            "name": "Silver Oak",
+            "price": "$150 bottle",
+            "description": "Alexander Valley, CA, USA"
+          },
+          {
+            "name": "Mercury Head",
+            "price": "$225 bottle",
+            "description": "Napa Valley, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Red Blend",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "Bodyguard",
+            "price": "$66 bottle",
+            "description": "Paso Robles, CA, USA"
+          },
+          {
+            "name": "Machete",
+            "price": "$70 bottle",
+            "description": "Napa Valley, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Pinot Noir",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "B.R. Cohn Silver Label",
+            "price": "$39 bottle",
+            "description": "Russian River Valley, CA, USA"
+          },
+          {
+            "name": "The Prisoner",
+            "price": "$60 bottle",
+            "description": "Napa Valley, CA, USA"
+          },
+          {
+            "name": "Slander",
+            "price": "$75 bottle",
+            "description": "Santa Barbara County, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Toscana",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "Il Fauno",
+            "price": "$75 bottle",
+            "description": "Castelnuovo Berardenga, Italy"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Zinfandel",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "Saldo",
+            "price": "$45 bottle",
+            "description": "Sonoma County, CA, USA"
+          },
+          {
+            "name": "8 Years in the Desert",
+            "price": "$85 bottle",
+            "description": "Napa Valley, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Merlot",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "Advice from John",
+            "price": "$60 bottle",
+            "description": "Napa Valley, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Sparkling",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "Benvolio Split",
+            "price": "$11 bottle",
+            "description": "Friuli, Italy"
+          },
+          {
+            "name": "Lamarca Split",
+            "price": "$11 bottle",
+            "description": "Treviso, Italy"
+          },
+          {
+            "name": "Cuvee 89 Brut",
+            "price": "$30 bottle",
+            "description": "Albuquerque, NM, USA"
+          },
+          {
+            "name": "Lunetta Prosecco",
+            "price": "$36 bottle",
+            "description": "Trentino, Italy"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Rosé",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "Hampton Water",
+            "price": "$36 bottle",
+            "description": "Languedoc, France"
+          },
+          {
+            "name": "Tormaresca Negroamaro",
+            "price": "$39 bottle",
+            "description": "Puglia, Italy"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Chardonnay",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "The Prisoner",
+            "price": "$60 bottle",
+            "description": "Napa Valley, CA, USA"
+          }
+        ]
+      },
+      {
+        "title": "By the Bottle · Sauvignon Blanc",
+        "note": "Bottle prices.",
+        "items": [
+          {
+            "name": "Blank Stare",
+            "price": "$60 bottle",
+            "description": "Russian River Valley, CA, USA"
+          }
+        ]
+      }
+    ]
+  }
+}
